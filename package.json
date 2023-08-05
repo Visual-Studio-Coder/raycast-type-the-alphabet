@@ -4,7 +4,7 @@
   "title": "Type the Alphabet",
   "description": "Type the Alphabet times how long you take to type the alphabet completely",
   "icon": "command-icon.png",
-  "author": "VaibhavSatishkumar",
+  "author": "Vaibhav-Satishkumar",
   "categories": [
     "Fun"
   ],
@@ -13,7 +13,8 @@
     {
       "name": "typethealphabet",
       "title": "Type the Alphabet",
-      "description": "Play classic Tetris!",
+      "subtitle": "Time alphabet typing speed.",
+      "description": "See how many seconds it will take you to type the entire alphabet using the Type the Alphabet extension!",
       "mode": "view"
     }
   ],
